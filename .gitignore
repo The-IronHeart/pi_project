@@ -131,3 +131,4 @@ pi_env/
 test.py
 error.log
 access.log
+config.py
