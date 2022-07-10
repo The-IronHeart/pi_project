@@ -13,3 +13,4 @@ def pi():
 @app.route("/db")
 def db():
     return "DB DATA"
+
