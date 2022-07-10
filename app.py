@@ -9,3 +9,7 @@ def home():
 @app.route('/pi')
 def pi():
     return "PI device"
+
+@app.route("/db")
+def db():
+    return "DB DATA"
